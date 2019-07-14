@@ -1,0 +1,9 @@
+redis
+django-cors-headers
+requests
+pika
+cassandra-driver
+lz4
+scales
+mysqlclient
+SpeechRecognition
